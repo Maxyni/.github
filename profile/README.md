@@ -11,5 +11,5 @@ If you'd like to get in touch, feel free to email us at:
 *suporte@maxyni.com.br*
 
 Our lead developers are here to assist you if you have any questions about hiring us to develop a custom solution for your business:  
-- [@MikaelMaster](#)  
-- [@guilhermehnf](#)
+- [@MikaelMaster](https://github.com/MikaelMaster)  
+- [@guilhermehnf](https://github.com/guilhermehnf)
