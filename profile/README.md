@@ -1,6 +1,6 @@
 # Maxyni 🚀
 
-Maxyni is a Brazilian startup specializing in software development for business management and utilities. We offer products tailored to various industries, and we're constantly striving to evolve and enhance our systems. For us, being the best and a reference in our field is the only option. 🌟
+We are a Brazilian startup specializing in software development for business management and utilities. We offer products tailored to various industries, and we're constantly striving to evolve and enhance our systems. For us, being the best and a reference in our field is the only option. 🌟
 
 Check out our website and explore our products!  
 [https://maxyni.com.br](https://maxyni.com.br)
