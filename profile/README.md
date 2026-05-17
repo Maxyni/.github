@@ -8,7 +8,7 @@ Check out our website and explore our cloud-based products!
 ## Contact Us 📩
 
 If you'd like to get in touch, feel free to email us at:  
-*suporte@maxyni.com.br* or through our website above.
+*contato@maxyni.com.br* or through our website above.
 
 Our lead developers are here to assist you if you have any questions about hiring us to develop a custom solution for your business:  
 - [@Mikael Thiede](https://github.com/MikaelMaster)
